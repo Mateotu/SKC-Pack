@@ -1,8 +1,11 @@
-# SKC-Pack
+![image](https://github.com/user-attachments/assets/7f782da0-6ebc-440f-80b1-caa70b3d9ca6)
+
+<div align="center">
+ <h1> SKC-Pack  </h1>
 Paczka Minecraft do grania na serwerze, ostateczna forma rozgrywki
 
 Obecnie paczka posiada 309 modyfikacje (mody, API etc.)
-
+</div>
 
 
 <div align="center">
