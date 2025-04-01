@@ -110,3 +110,21 @@ The Graveyard Mod
 
 <h3>Zaktualizowane mody</h3>
 Zaktualizowano ponad 100 modyfikacji do najnowszych wersji. Większość aktualizacji to bugfixy, ale też poprawa kompatybilności z innymi modami co umożliwiło rozwinięcie paczki do obecnego stanu.
+
+
+
+
+# Wersja 0.2.1
+
+<h3>Nowe modyfikacje </h3>
+*   **Call from the depths 
+*   **Undead Unleashed!** 
+*   **Rotten Creatures**
+*   **Champions**
+*   **Platform** - API
+
+<h3>Usunięte modyfikacje </h3>
+*   **Blue Skies** - błąd przy tworzeniu świata, errory przeciążenia paczki
+*   **InfernalMobs** - błąd przy spawn potworków blokujący całkowicie świat
+*   **MoZombies** - generowały się w każdym wymiarze powodując rozbieżność spawnu prawidłowych mobów
+*   **Deeper Darker** - błąd generowania nowego wymiaru, zastąpione przez Call from the depths 
