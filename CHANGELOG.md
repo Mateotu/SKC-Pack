@@ -117,18 +117,20 @@ Zaktualizowano ponad 100 modyfikacji do najnowszych wersji. Większość aktuali
 # Wersja 0.2.1
 
 <h3>Nowe modyfikacje </h3>
-*   **Call from the depths**.
 
-*   **Undead Unleashed!** .
+*   **Call from the depths** 
+
+*   **Undead Unleashed!** 
   
-*   **Rotten Creatures**.
+*   **Rotten Creatures**
   
-*   **Champions**.
+*   **Champions**
   
-*   **Platform** - API.
+*   **Platform** - API
   
 
 <h3>Usunięte modyfikacje </h3>
+
 *   **Blue Skies** - błąd przy tworzeniu świata, errory przeciążenia paczki.
 
 *   **InfernalMobs** - błąd przy spawn potworków blokujący całkowicie świat.
@@ -136,3 +138,38 @@ Zaktualizowano ponad 100 modyfikacji do najnowszych wersji. Większość aktuali
 *   **MoZombies** - generowały się w każdym wymiarze powodując rozbieżność spawnu prawidłowych mobów.
   
 *   **Deeper Darker** - błąd generowania nowego wymiaru, zastąpione przez Call from the depths.
+
+
+
+
+# Wersja 0.2.2
+
+### Dodano
+
+* **Visual Workbench:** Dodano modyfikację, która wyświetla przedmioty potrzebne do craftingu bezpośrednio w interfejsie warsztatu. Koniec z ciągłym sprawdzaniem przepisów!
+* **Item Physic FULL:** Wyrzucone przedmioty zyskują realistyczną fizykę i animacje. Teraz upuszczone itemy będą zachowywać się bardziej naturalnie.
+* **Doggy Talents Next DTNCommunitySkinExpansion:** Dodano rozszerzenie skórek dla moda Doggy Talents Next, oferujące jeszcze więcej opcji personalizacji Waszych psich towarzyszy.
+* **Cute Companions Ducks:** Do świata gry zawitały urocze kaczki! Przywitajcie nowych, pierzastych mieszkańców.
+* **Enemy Banner:** Dodano modyfikację inspirowaną Terrarią, wprowadzającą banery przeciwników. Zdobądź baner zabijając odpowiednią liczbę potworów tego samego typu.
+* **Dynamic FPS:** Mod optymalizujący zużycie zasobów komputera poprzez zmniejszenie liczby klatek na sekundę, gdy okno gry jest zminimalizowane. Poprawia wydajność systemu podczas pracy w tle.
+
+### Usunięto
+
+* **Recall Potions:** Usunięto modyfikację ze względu na funkcjonalność pokrywającą się z innym przedmiotem dostępnym w paczce.
+
+### Zaktualizowano
+
+* **Artifacts:** Zaktualizowano modyfikację Artifacts do najnowszej wersji, wprowadzając nowe artefakty, poprawki błędów i potencjalne zmiany w balansie.
+* **Polytone:** Zaktualizowano modyfikację Polytone, prawdopodobnie wprowadzając nowe funkcje związane z dźwiękiem lub poprawiając istniejące.
+* **Doggy Talents Next:** Zaktualizowano modyfikację Doggy Talents Next do najnowszej wersji, co może wiązać się z nowymi umiejętnościami, rasami psów, poprawkami błędów i optymalizacją.
+* **Undead Unleashed:** Zaktualizowano modyfikację Undead Unleashed, zawierającą hotfixy naprawiające krytyczne błędy i poprawiające stabilność.
+* **Illager Invasion:** Zaktualizowano modyfikację Illager Invasion do najnowszej wersji, co może wprowadzać nowe typy najeźdźców, struktury, wyzwania lub poprawki błędów.
+
+### Zmiany Konfiguracji
+
+* **MineColonies:** Zmieniono konfigurację moda MineColonies w taki sposób, że skrzynie z zaopatrzeniem (supplies) nie będą już generować się losowo. Zmiana ta może wpłynąć na sposób zarządzania zasobami w kolonii jak i balans całej paczki.
+* **Nature Compass:** Zwiększono zasięg wyszukiwania biomów w konfiguracji moda Nature Compass. Dzięki temu modyfikacja będzie bardziej efektywna na światach z większymi biomami, ułatwiając odnalezienie poszukiwanych lokacji.
+
+### Inne
+
+* **Konfiguracja pierwszych questów paczki:** Skonfigurowano pierwsze zadania w paczce, aby wprowadzić graczy w świat gry i mechaniki modyfikacji. Zachęcamy do rozpoczęcia nowej przygody!
