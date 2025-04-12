@@ -173,3 +173,24 @@ Zaktualizowano ponad 100 modyfikacji do najnowszych wersji. Większość aktuali
 ### Inne
 
 * **Konfiguracja pierwszych questów paczki:** Skonfigurowano pierwsze zadania w paczce, aby wprowadzić graczy w świat gry i mechaniki modyfikacji. Zachęcamy do rozpoczęcia nowej przygody!
+
+
+# Wersja 0.2.3
+
+### Dodano
+* **GlitchCore:** API
+* **SeasonHud:** Od teraz będziesz wiedział jaka jest pora roku. Informacja znajdzie się pod mapą.
+* **saturn:** Poprawa wydajności paczki
+* **Cooking for Blockheads:** Nowy system pomocy przy tworzeniu jedzenia
+* **Farming for Blockheads:** System umożliwiający zdobycie konkretnych nasion i sadzonek
+* **Golem Spawn Animation:** Animacja tworzenia golemów
+* **Happy Ghast:** Port nowości z najnowszej wersji Minecraft
+
+### Zaktualizowano
+
+* **DynamicTrees:**
+* **SereneSeasons:**
+* **Hardcore Revival:**
+* **Geckolib:**
+  
+
