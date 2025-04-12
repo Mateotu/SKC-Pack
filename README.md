@@ -16,6 +16,6 @@ Obecnie paczka posiada 309 modyfikacje (mody, API etc.)
 </div>
 <div align="center">
   <h3>Uwaga, paczka nie zawiera pliku FORGE oraz plików Minecraft</h3>
-  <h4>Należy pobrać i zainstalować w własnym zakresie Minecrafta w wersji 1.20.1 oraz FORGE 47.3.0 dla owej wersji</h4>
+  <h4>Należy pobrać i zainstalować w własnym zakresie Minecrafta w wersji 1.20.1 oraz FORGE 47.4.0 dla owej wersji</h4>
 </div>
 
