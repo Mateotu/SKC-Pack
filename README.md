@@ -4,14 +4,14 @@
  <h1> SKC-Pack  </h1>
 Paczka Minecraft do grania na serwerze, ostateczna forma rozgrywki
 
-Obecnie paczka posiada 393 modyfikacje (mody, API etc.)
+Obecnie paczka posiada 401 modyfikacje (mody, API etc.)
 </div>
 
 
 <div align="center">
     <h2>Link do paczki modyfikacji</h2>
     <a href="https://drive.google.com/drive/folders/1Z91ORcuUyKfNlY1wmpC967bIw9bdF2Zf?usp=sharing">
-        Kliknij tutaj, aby pobrać
+        Kliknij tutaj, aby pobrać, obecna wersja paczki 0.9
     </a>
 </div>
 <div align="center">
