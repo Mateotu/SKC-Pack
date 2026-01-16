@@ -11,7 +11,7 @@ Obecnie paczka posiada 401 modyfikacje (mody, API etc.)
 <div align="center">
     <h2>Link do paczki modyfikacji</h2>
     <a href="https://drive.google.com/file/d/10tb2PWPV6BT23JcsqPfXbf7z0fdb5jLD/view?usp=drive_link">
-        Kliknij tutaj, aby pobrać, obecna wersja paczki 0.9
+        Kliknij tutaj, aby pobrać, obecna wersja paczki 1.0
     </a>
 </div>
 <div align="center">
