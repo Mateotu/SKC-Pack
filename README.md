@@ -10,8 +10,8 @@ Obecnie paczka posiada 401 modyfikacje (mody, API etc.)
 
 <div align="center">
     <h2>Link do paczki modyfikacji</h2>
-    <a href="https://drive.google.com/file/d/1xMJvOYO0LN4uwE8gLs2pPyhMGtDoMSWM/view?usp=sharing">
-        Kliknij tutaj, aby pobrać, obecna wersja paczki 1.0
+    <a href="https://drive.google.com/drive/folders/1Z91ORcuUyKfNlY1wmpC967bIw9bdF2Zf?usp=sharing">
+        Kliknij tutaj, aby pobrać, obecna wersja paczki 1.1
     </a>
 </div>
 <div align="center">
