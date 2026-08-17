@@ -5,7 +5,7 @@
  <h1> SKC Ultimate - Modpack  </h1>
 Paczka Minecraft do grania na serwerze, ostateczna forma rozgrywki
 
-Obecnie paczka posiada 418 modyfikacje (mody, API etc.)
+Obecnie paczka posiada 422 modyfikacje (mody, API etc.)
 </div>
 
 
