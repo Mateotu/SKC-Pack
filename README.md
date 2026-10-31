@@ -5,18 +5,18 @@
  <h1> SKC Ultimate - Modpack  </h1>
 Paczka Minecraft do grania na serwerze, ostateczna forma rozgrywki
 
-Obecnie paczka posiada 421 modyfikacje (mody, API etc.)
+Obecnie paczka posiada 433 modyfikacje (mody, API etc.)
 </div>
 
 
 <div align="center">
     <h2>Link do paczki modyfikacji</h2>
-    <a href="https://drive.google.com/file/d/1iKr4L1iyvuPhaSwdyD-SLd6ZAh8nqDKI/view?usp=drive_link">
-        Kliknij tutaj, aby pobrać, obecna wersja paczki 1.4
+    <a href="https://drive.google.com/file/d/17s-DFa9-Od_VUyNLvltUmg2r5siQmFAH/view?usp=drive_link">
+        Kliknij tutaj, aby pobrać, obecna wersja paczki 1.5
     </a>
 </div>
 <div align="center">
-  <h3>Uwaga, paczka nie zawiera pliku FORGE oraz plików Minecraft</h3>
-  <h4>Należy pobrać i zainstalować w własnym zakresie Minecrafta w wersji 1.20.1 oraz FORGE 47.4.22 dla owej wersji</h4>
+  <h3>Uwaga, paczka przygotowana pod launcher PRISM</h3>
+  <h4><a href="https://prismlauncher.org/"> Kliknij tutaj, aby pobrać launcher</h4>
 </div>
 
