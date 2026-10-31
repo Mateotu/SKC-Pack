@@ -11,7 +11,7 @@ Obecnie paczka posiada 421 modyfikacje (mody, API etc.)
 
 <div align="center">
     <h2>Link do paczki modyfikacji</h2>
-    <a href="https://drive.google.com/drive/folders/1Z91ORcuUyKfNlY1wmpC967bIw9bdF2Zf?usp=sharing">
+    <a href="https://drive.google.com/file/d/1iKr4L1iyvuPhaSwdyD-SLd6ZAh8nqDKI/view?usp=drive_link">
         Kliknij tutaj, aby pobrać, obecna wersja paczki 1.4
     </a>
 </div>
